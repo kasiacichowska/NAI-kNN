@@ -9,4 +9,4 @@ Po przetworzeniu danych treningowych i testowych, program przeprowadza klasyfika
 Dodatkowo, program podaje dokładność (accuracy) tej klasyfikacji, informując użytkownika o tym, jak dobrze model radzi sobie z przewidywaniem klas.
 
 Interfejs programu umożliwia również użytkownikowi wprowadzanie pojedynczych wektorów danych do klasyfikacji. Na podstawie danych treningowych, 
-program przewiduje etykietę k-NN dla tych wektorów i zwraca odpowiedź użytkownikowi. Interfejs może być tekstowy lub graficzny, w zależności od preferencji użytkownika.
+program przewiduje etykietę k-NN dla tych wektorów i zwraca odpowiedź użytkownikowi.
